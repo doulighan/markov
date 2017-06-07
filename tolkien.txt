@@ -1,0 +1,91 @@
+Anar, Balin, Beli, Bifur, Bláin, Bofur, Bombur, Borin,
+Burin, Dáin, Dori, Durin, Dwalin, Farin, Fíli, Flói, Frár,
+Frerin, Frór, Fundin, Gimli, Ginar, Glóin, Gróin, Grór,
+Hanar, Kíli, Lófar, Lóni, Náin, Náli, Nár, Nói, Nori, Óin,
+Ónar, Óri, Póri, Regin, Thorin, thráin, Thrór, Vidar,
+Adalgrim, Adelard, Andwise, Anson, Balbo, Bandobras,
+Bergil, Bilbo, Bingo, Blanco, Bodo, Bowman, Bucca,
+Bungo, Carl, Cotman, Cottar, Dindonas, Doderic, Dodinas,Drogo, Dudo, Erling, Falco, Fastolph, Fastred, Ferdibrand,Ferdinand, Ferumbras, Filibert, Flambard, Folco,
+Fortinbras, Fosco, Fredegar, Frodo, Gerontius, Gorbadoc,
+Gorbulas, Gorhendad, Gormadoc, Griffo, Gundabald,
+Halfast, Halfred, Hamfast, Hamson, Harding, Hending,
+Hildibrand, Hildifons, Hildigard, Hildigrim, Hob,
+Hobson, Holfoot, Holman, Hugo, Ilberic, Isembard,
+Isembold, Isengar, Isemgrim, Isumbras, Largo, Longo,
+Lotho, Madoc, Marcho, Marmadas, Marmadoc, Marroc,
+Meriadoc, Merimac, Merimas, Milo, Minto, Moro,
+Mosco, Mungo, Nob, Odo, Odovacar, Olo, Orgolas,
+Otho, Paladin, Peregrin, Polo, Ponto, Porto, Posco, Reginard,
+Rendigar, Robin, Rorimac, Rudigar, Rufus, Sadoc,
+Samwise, Sancho, Saradas, Saradoc, Seredic, Sigismond,
+Tobold, Togo, Tolma, Tolman, Wilcome, Wilibald, Will,
+Wiseman,
+Dís, Hón, Kóna, Már, Gwaihir, Landroval, Meneldor,
+Thorondor, Bregalad, Fangorn, Finglas, Fladrif, Fimbrethil, Baggins, Banks, Boffin, Bolger, Bracegirdle, Brandybuck,
+Brockhouse, Brown, Brownlock, Bunce, Burrows, Butcher,
+Chubb, Chubb-Baggins, Cotton, Gamgee, Gardner,
+Goldworthy, Goodbody, Goodchild, Goold, Greenhand,
+Grubb, Hayward, Headstrong, Hogg, Hornblower,
+Longholes, Maggot, Mugwort, Noakes, Pott, Proudfoot,
+Puddifoot, Roper, Rumble, Sackville, Sackville-Baggins,
+Sandheaver, Sandyman, Smallburrow, Took, Tunnelly,
+Twofoot, Underhill, Whitfoot, Adalgrim, Adelard, Andwise, Anson, Balbo, Bandobras,
+Bergil, Bilbo, Bingo, Blanco, Bodo, Bowman, Bucca,
+Bungo, Carl, Cotman, Cottar, Dindonas, Doderic, Dodinas,
+Drogo, Dudo, Erling, Falco, Fastolph, Fastred, Ferdibrand,
+Ferdinand, Ferumbras, Filibert, Flambard, Folco,
+Fortinbras, Fosco, Fredegar, Frodo, Gerontius, Gorbadoc,
+Gorbulas, Gorhendad, Gormadoc, Griffo, Gundabald,
+Halfast, Halfred, Hamfast, Hamson, Harding, Hending,
+Hildibrand, Hildifons, Hildigard, Hildigrim, Hob,
+Hobson, Holfoot, Holman, Hugo, Ilberic, Isembard,
+Isembold, Isengar, Isemgrim, Isumbras, Largo, Longo,
+Lotho, Madoc, Marcho, Marmadas, Marmadoc, Marroc,
+Meriadoc, Merimac, Merimas, Milo, Minto, Moro,
+Mosco, Mungo, Nob, Odo, Odovacar, Olo, Orgolas,
+Otho, Paladin, Peregrin, Polo, Ponto, Porto, Posco, Reginard,
+Rendigar, Robin, Rorimac, Rudigar, Rufus, Sadoc,
+Samwise, Sancho, Saradas, Saradoc, Seredic, Sigismond,
+Tobold, Togo, Tolma, Tolman, Wilcome, Wilibald, Will,
+Wiseman, Adaldrida, Adamanta, Amaranth, Angelica, Asphodel,
+Belba, Bell, Belladonna, Berylla, Camellia, Celandine,
+Chica, Daisy, Diamond, Donnamira, Dora, Eglantine,
+Elanor, Esmerelda, Gilly, Goldilocks, Hanna, Hilda, Lily,
+Linda, Lobelia, Malva, Marigold, May, Melilot, Menegilda,
+Mentha, Mimosa, Mirabella, Myrtle, Pansy, Pearl,
+Peony, Pervinca, Pimpernel, Poppy, Primrose, Primula,
+Prisca, Rosamunda, Rosa, Rose, Ruby, Salvia, Tanta, Silver Hand, Celegorm Silver, Círdan Shipwright,
+Cúthalion Strongbow, Daeron Shadow, Denethor
+Water Torrent, Edrahil Heir, Elladan Star Man,
+Elrohir Star Horse Lord, Elrond Star Dome, Elros
+Star Foam, Eöl, Ereinion Scion of Kings, Erestor
+One, Fëanor Spirit of Fire, Fingon Commander
+with [Golden] Hair, Finrod, Galdor Shining Lord, Galion Bright, Gelmir
+Flowing Jewel, Gil-galad Star of Radiance, Glorfindel
+Golden Hair, Guilin Song of Awakening, Gwindor
+Land, Haldir Tall Watcher, Legolas Leaf , Lindir
+Song Watcher, Mablung of the Heavy Hand, Maglor
+Golden Hand, Maedhros Foam, Maeglin Sharp
+Gleam, Orodreth Mountain, Orophin Mountain
+Hill, Saeros Foam, Turgon Lord of Stone,Appledore, Birchdown, Blackthorn, Butterbur, Buttercup,
+Dogwood, Ferny, Goatleaf, Gooseberry, Harebell,
+Heathertoes, Honeystalk, Mawseed, Milkflower, Pickthorn,
+Rushlight, Thistlewool, Whistletree, Whitebeam,
+Whortleberry, Alwis All Wise, Asabiarn Divine Bear, Bard Battle 
+Axe, Biarn Bear, Bondi Peasant Farmer, Booth Shelter,
+Brand Flaming Torch, Brander Fiery Sword, Dag
+Day, Delling Shining One, Einar Lone Warrior, Eric
+Honorable Ruler, Erland Stranger, Farman Traveller,
+Gus Staff , Gustaw Lord’s Rod, Hakon Of Noble
+Birth, Hallam dweller at the Rocks, Halstein Rock,
+Halward Defender of the Rock, Hamar Hammer,
+Harald High-Old, Holgeir Spear-Like, Ingemar Famous
+Son, Ingar Son’s Army, Iwar Battle Archer, Kell
+From the Well or Spring, Knut Knot, Lif Beloved,
+Lunt From the Sacred Wood, Odell Wealthy, Olaf
+Ancestor, Ranulf Wolf-Like Advice, Ric Honourable
+Ruler, Roald Famous Ruler, Rutland From the Stump
+Land, Sigurd Victorious Guardian, Skip Ship, Stig
+Wanderer, Storr Great Man, Sutherland From the
+Southern Land, Swain Youthful, Tate  Jolly, Thor Thunder, Thorald Thunder-Ruler, Thorburn Thunder
+Warrior, Tor Thunder, Tore Thunder, Torwald Thunder-Ruler, Azog, Bolg, Búrz, Gazbag, Gazduf, Gazdush, Gazhúr,  Gazgash, Gazbug, Gazhorn, Gazmog, Gazmuz, Gazrad, Gazrat, Gazthak, Gazlag, Gazlúk, Gazlûn, Gazlur, Gaznag, Gazuf, Gazug, Gazûl, Ghash, Golfimbul, Gorbag, Gorbug, Gorduf, Gordush, Gorgash, Gorgaz, Gorhúr, Gorlúk, Gorlûn, Gornag, Gorshag, Gorthak, Gorûl, Gorzag, Grishnákh, Lagbug, Lagduf, Lagdush, Laghúr, Laguf, Laglúg, Laglûn, Lagrad, Lagrat, Lagthak, Lug, Lugbag, Lugduf, Lugdush, Lughorn, Lughúr, Luglúk, Luglûn, Lugnag, Lugthak, Lugûl, Lugzag, Lûnbag, Lûnbug, Lûnduf, Lûndush, Lûngash, Lûngaz, Lûngor, Lûnhúr,Lûnlag, Lûnlúk, Lûnmaz, Lûnrad, Lûnrat, Lûnshag, Lûnthak,Lûnuf, Lûnug, Lûnûl, Lûnzag, Maubag, Maubug, Mauduf, Maudush, Maugash, Maugaz, Maugor, Mauhúr, Maulúk, Maulur, Maunag, Mauthak, Mauzag, Muzbag, Muzbug, Muzduf, Muzdush, Muzgash, Muzgaz, Muzgor, Muzhúr, Muzlag, Muzlug, Muzlúk, Muzlûn, Muzlur, Muznag, Muzrad, Muzrat, Muzthak, Muzug, Muzûl, Nagbug, Nagduf, Nagdush, Naghúr, Naglug, Naglúk, Naglur, Nagmuz, Nagug, Nagrad, Nagrat, Nagthak, Nagzag, Nûzu, Radbag, Radbug, Radgash, Radgaz, Radhúr, Radlag, Radlúk, Radmuz, Radnag, Radrat, Radthak, Radug, Radzag, Shagbug, Shagduf, Shagdush, Shaglúk, Shaglur, Shagrad, Shagrat, Shagthak, Shaguf, Shagug, Shagûl, Snaga, Ufgaz, Uflug, Uflúk, Ufthak, Ufzag,Ugbag, Ugduf,Ugdush, Ughúr, Uglag, Uglúk, Uglur, Ugmuz, Ugnag,Ugrad, Ugrat, Ugthak, Ugzag, Yagaz, Yagbug, Yagduf,Yagdush, Yaghúr, Yaglug, Yaglûn, Yaglúk, Yagmuz, Yagor, Yagrad, Yagrat, Yagthak, Yaguf, Yagug, Yagûl, Zagbug, Zagduf,Zagdush, Zaghúr, Zaglag, Zaglug, Zaglûn, Zaglúk,Zagmuz, Zagrad, Zagrat, Zagthak, Zaguf, Zagug, 
